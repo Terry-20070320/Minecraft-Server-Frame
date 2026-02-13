@@ -1,4 +1,4 @@
-# Minecaft-Server-Frame
+# Minecraft-Server-Frame
 This is a Minecraft server setup framework that can help beginners quickly deploy their own private servers. I will gradually update all versions, but please give me some time.
 
 If you are a complete beginner before you start using it, please be sure to read my instructions below.
