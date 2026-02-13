@@ -9,3 +9,6 @@ Requires Plugin: Spigot.
 Requires Mods: Not yet updated, please wait patiently.
 
 As for how to connect to the server, I will update this later due to time constraints. There are many related resources on YouTube, so please make good use of them.
+
+Please download from the release.
+<img width="1886" height="1023" alt="image" src="https://github.com/user-attachments/assets/75310916-537d-423b-ae62-95be0f5dc397" />
